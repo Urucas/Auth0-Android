@@ -16,9 +16,9 @@ import org.json.JSONObject;
 
 public class MainActivity extends Activity {
 
-	static final String ClientID = "YOUR_CLIENT_ID";
-	static final String Tenant = "YOUR_TENANT";
-	static final String Callback = "https://localhost/client";
+	static final String ClientID = "UBh5Mzllo89TTfXNWWlulR2QE7ddqpMH";
+	static final String Tenant = "urucas";
+	static final String Callback = "http://kuesty.com/oauth/callback";
     static final String Connection = "google-oauth2"; //any other connection
 
     @Override
